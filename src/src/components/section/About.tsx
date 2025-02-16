@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FaNodeJs, FaReact, FaAws, FaHtml5, FaCss3Alt, FaGitAlt } from "react-icons/fa";
 import { SiNestjs, SiJavascript, SiTypescript, SiMongodb, SiMysql, SiRedis, SiFirebase, SiCplusplus, SiExpress, } from "react-icons/si";
 

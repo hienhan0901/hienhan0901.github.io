@@ -1,6 +1,5 @@
-import React, { useEffect, useState } from 'react'
+
 import About from './section/About'
-import Work from './section/Work'
 import Contact from './section/Contact'
 
 const Body = () => {

@@ -1,5 +1,4 @@
-import React from 'react'
-import { NavLink } from 'react-router-dom'
+
 const Navigation = () => {
     // const
     const linkClass = () => ' text-sky-400 hover:bg-sky-700 hover:text-white rounded-md px-3 py-2'
