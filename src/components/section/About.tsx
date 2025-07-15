@@ -1,6 +1,7 @@
 
 import { FaNodeJs, FaReact, FaAws, FaHtml5, FaCss3Alt, FaGitAlt } from "react-icons/fa";
 import { SiNestjs, SiJavascript, SiTypescript, SiMongodb, SiMysql, SiRedis, SiFirebase, SiCplusplus, SiExpress, } from "react-icons/si";
+import Experience from "./Experience";
 
 const About = () => {
   return (
@@ -90,9 +91,7 @@ const About = () => {
       </div>
       <div className='mb-8'>
         <h2>Experience</h2>
-        <div className='flex flex-col justify-center'>
-          <div></div>
-        </div>
+        <Experience/>
       </div>
     </>
   )
