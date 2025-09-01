@@ -28,7 +28,7 @@ const Footer = () => {
                     Let's work together!
                 </span>
             </div>
-            <footer className='mt-7 text-xs text-gray-600'>© 2025 Hàn Văn Gia Hiên. All rights reserved.</footer>
+            <footer className='mt-7 text-xs text-gray-600'>© {new Date().getFullYear()} Hàn Văn Gia Hiên. All rights reserved.</footer>
         </div>
     )
 }
